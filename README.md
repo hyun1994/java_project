@@ -3,7 +3,7 @@ java_spring_project
 
 ## Delivery Service Project
 
-https://github.com/hyun1994/java_delivery_service/commits/main/service
+https://github.com/hyun1994/java_delivery_service/
 - Dependecy and Basic Setting
 - Basic develop
 - User Logic
